@@ -1,0 +1,14 @@
+{
+  "name": "shoppingcart",
+  "version": "1.0.0",
+  "description": "Basic shopping cart functionality with tests",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Matthew Stevenson",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^8.0.1"
+  }
+}
